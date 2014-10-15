@@ -1,0 +1,12 @@
+{
+  "require": {
+    "videlalvaro/php-amqplib" : "v2.1.0",
+    "jms/serializer": "0.16.0",
+    "ext-xsl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sales\\": "src/"
+    }
+  }
+}

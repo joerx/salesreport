@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <seller_name><![CDATA[John Doe]]></seller_name>
+  <buyer_name><![CDATA[Jane Doe]]></buyer_name>
+  <price>19.95</price>
+  <amount>1</amount>
+</result>
